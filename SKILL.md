@@ -85,3 +85,4 @@ Record decisions and tradeoffs in [`design-intelligence/`](./design-intelligence
 - `design-rationale.md`: Why choices were made.
 - `rejected-alternatives.md`: Why other directions were dismissed.
 - `design-evolution.md`: What changed across iterations and why.
+

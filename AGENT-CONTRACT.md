@@ -37,3 +37,4 @@ Under no circumstances should subsequent agent modifications:
 - Destroy the established semantic narrative in favor of generic feature lists.
 - Remove accessibility features (keyboard navigation, focus states, screen reader descriptions).
 - Overwrite deliberate design tradeoffs recorded in `design-intelligence/tradeoffs.md` without explicitly documenting the rationale in `design-intelligence/changelog.md`.
+
