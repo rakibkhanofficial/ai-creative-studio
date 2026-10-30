@@ -1,0 +1,71 @@
+version: "2.0"
+routing:
+  core:
+    - 00-core/product-analysis.md
+    - 00-core/creative-director.md
+    - 00-core/experience-strategy.md
+    - 00-core/complexity-engine.md
+  minimal:
+    - 09-experience-modes/minimal.md
+    - 01-art-direction/typography.md
+    - 03-layout/whitespace.md
+    - 04-motion/interface-motion.md
+  cinematic:
+    - 09-experience-modes/cinematic.md
+    - 02-storytelling/cinematic-storytelling.md
+    - 04-motion/cinematic-motion.md
+    - 08-assets/video-generation.md
+    - 08-assets/image-sequences.md
+  immersive:
+    - 09-experience-modes/immersive.md
+    - 06-3d/threejs.md
+    - 06-3d/webgl.md
+    - 06-3d/physics.md
+    - 06-3d/3d-performance.md
+  technical:
+    - 09-experience-modes/technical.md
+    - 05-visualization/system-visualization.md
+    - 05-visualization/network-visualization.md
+    - 07-interaction/interactive-diagrams.md
+  scientific:
+    - 09-experience-modes/scientific.md
+    - 05-visualization/scientific-visualization.md
+    - 05-visualization/maps.md
+  industrial:
+    - 09-experience-modes/industrial.md
+    - 05-visualization/system-visualization.md
+    - 02-storytelling/product-storytelling.md
+  data:
+    - 09-experience-modes/data-driven.md
+    - 05-visualization/data-visualization.md
+    - 05-visualization/graphs.md
+    - 05-visualization/data-lineage.md
+  editorial:
+    - 09-experience-modes/editorial.md
+    - 01-art-direction/typography.md
+    - 03-layout/editorial-layout.md
+  product_demo:
+    - 09-experience-modes/product-demo.md
+    - 07-interaction/product-demo.md
+    - 02-storytelling/product-storytelling.md
+  network:
+    - 05-visualization/network-visualization.md
+    - 05-visualization/graphs.md
+  data_lineage:
+    - 05-visualization/data-lineage.md
+    - 05-visualization/graphs.md
+    - 05-visualization/canvas-visualization.md
+  sankey:
+    - 05-visualization/sankey.md
+    - 05-visualization/data-visualization.md
+  3d:
+    - 06-3d/threejs.md
+    - 06-3d/3d-product.md
+    - 06-3d/3d-performance.md
+  qa:
+    - 12-quality/visual-qa.md
+    - 12-quality/design-qa.md
+    - 12-quality/responsive-qa.md
+    - 12-quality/accessibility-qa.md
+    - 12-quality/performance-qa.md
+    - 12-quality/anti-generic-qa.md

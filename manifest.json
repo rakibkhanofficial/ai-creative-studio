@@ -1,0 +1,22 @@
+{
+  "name": "ai-creative-studio",
+  "version": "3.0.0",
+  "description": "Autonomous AI Creative Studio for UI/UX design, art direction, 3D/WebGL, motion, and creative frontend engineering.",
+  "author": "Rakib Khan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakibkhanofficial/ai-creative-studio.git"
+  },
+  "entrypoints": {
+    "master_prompt": "MASTER-PROMPT.md",
+    "skill": "SKILL.md",
+    "contract": "AGENT-CONTRACT.md",
+    "registry": "capability-registry.yaml",
+    "design_intelligence": "design-intelligence/"
+  },
+  "installation": {
+    "global_antigravity": "~/.gemini/antigravity/skills/ai-creative-studio/",
+    "workspace": ".agents/skills/ai-creative-studio/"
+  }
+}

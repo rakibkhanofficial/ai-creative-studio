@@ -1,0 +1,19 @@
+{
+  "project": "",
+  "version": "",
+  "experience": {
+    "primaryMode": "",
+    "secondaryModes": [],
+    "complexity": ""
+  },
+  "visualization": {
+    "type": "",
+    "purpose": "",
+    "technology": ""
+  },
+  "designInvariants": [],
+  "constraints": [],
+  "rejectedDirections": [],
+  "technology": {},
+  "openQuestions": []
+}
